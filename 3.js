@@ -1,7 +1,7 @@
-"use strict"
+"use strict";
 
-var b = Number(prompt("введите число b"));
-var d = Number(prompt("введите число a"));
+ b = Number(prompt("введите число b"));
+ d = Number(prompt("введите число a"));
 
 
 if (isNaN(d) && isNaN(b)) {
